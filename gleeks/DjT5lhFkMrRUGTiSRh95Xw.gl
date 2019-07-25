@@ -1,2 +1,9 @@
 Cooperation is important
 Valhalla
+
+
+Valar morghulis:queue
+Valar Dohaeris:queue
+Arya Stark:actor
+Jaqen H'ghar:actor
+Arya Stark --> Valar morghulis -- Jaqen H'ghar --> Valar Dohaeris -- Arya Stark
