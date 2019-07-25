@@ -1,6 +1,8 @@
 Cooperation is important
 Valhalla
+
 Daniel Defoe --> author
+
 
 Valar morghulis:queue
 Valar Dohaeris:queue
@@ -8,3 +10,5 @@ Arya Stark:actor
 Jaqen H'ghar:actor
 Arya Stark --> Valar morghulis -- Jaqen H'ghar --> Valar Dohaeris -- Arya Stark
 
+
+Checking last commit
