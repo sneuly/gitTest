@@ -1,1 +1,1 @@
-{"name":"Coop","configuration":{"orientation":{"type":"vertical"},"layoutEngine":{"isEnabled":true,"type":"blocks"},"connectionLines":{"type":"curved"},"standartizeWidth":false},"timeStamp":"2019-07-30T08:19:29.512Z"}
+{"name":"Coop","configuration":{"orientation":{"type":"vertical"},"layoutEngine":{"isEnabled":true,"type":"blocks"},"connectionLines":{"type":"curved"},"standartizeWidth":false},"timeStamp":"2019-07-30T08:20:03.283Z"}
